@@ -1,0 +1,7 @@
+.selectable{
+
+}
+
+.selectable:hover{
+    cursor: pointer;
+}
